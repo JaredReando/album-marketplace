@@ -1,0 +1,16 @@
+ul {
+  list-style-type: none;
+  overflow: visible;
+  height: 100%;
+  margin-top: 10px;
+}
+
+li, li a {
+  color: #337ab7;
+  position: relative;
+  padding: 10px 10px;
+  display: inline;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+}
